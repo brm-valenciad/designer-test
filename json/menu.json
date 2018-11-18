@@ -1,0 +1,17 @@
+menu:[
+	{
+		"type": "header",
+		"items": [
+				{ "name":"Home", "link":"example.html" },
+				{ "name": "productos", "link": "ex.html", "children":
+					[
+						{ "name": "Catalogo", "link": "ex.html"},
+						{ "name": "Nuestras Ofertas", "link": "ex.html"},
+						{ "name": "Liquidación", "link": "ex.html"}
+					]
+				},
+				{ "name":"contacto", "link":"example.html" },
+				{ "name":"Sobre Nosotros", "link":"example.html" },
+			]
+	}
+];

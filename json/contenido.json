@@ -1,0 +1,18 @@
+contenido:[{
+		"type": "cards-slide",
+		"content": [
+				{ 	
+					"id":1,
+					"title":"lorem ipsum",
+					"image":"contenido/example.png",
+					"container": [
+						{ 	
+							"id":1,
+							"title":"Titulo de la tarjeta",
+							"content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+						}
+					]
+				}
+			]
+		}
+	];

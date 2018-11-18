@@ -1,0 +1,27 @@
+contenido:[
+	{
+		"type": "home",
+		"content": [
+				{ 
+					"id":1,
+					"bg":"location/image.png",
+					"title": "Lorem",
+					"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor",
+					"text-button": "Owner Button"
+				},
+				{ 
+					"id":2,
+					"bg":"location/image.png",
+					"title": "Lorem",
+					"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor",
+					"text-button": "Owner Button"
+				},{ 
+					"id":3,
+					"bg":"location/image.png",
+					"title": "Lorem",
+					"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor",
+					"text-button": "Owner Button"
+				}
+			]
+	}
+];
